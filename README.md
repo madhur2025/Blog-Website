@@ -2,9 +2,7 @@
  Hello everyone this is a blog website project using Django. in this project you can create new user account, post blogs in suitable category with a picture, comment on other user's blogs. there are different categories for blogs like food, health etc.
 
 # Table of Content
-HTML
-CSS
-Python
+HTML, CSS, Python
 
 # Installation (how you can use this)
 1.  Download the zip file of project
