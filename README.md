@@ -10,3 +10,6 @@ HTML, CSS, Python
 3.  Open terminal activate the environment
 4.  install required package manager like pillow and others
 5.  Run the python server
+
+# Screenshot
+![Screenshot 2024-11-24 110126](https://github.com/user-attachments/assets/563f4d0e-c5e2-421b-8c15-8f8a8929a2ec)
